@@ -1,7 +1,7 @@
 <template>
     <div>
         <div v-if="loading" class="loading">
-            <h1>Loading...</h1>
+            <h1>Loading....</h1>
         </div>
         <div v-else>
             <p class="heading__1">{{userData.name}}</p>
