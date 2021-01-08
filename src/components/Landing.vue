@@ -6,7 +6,7 @@
         <div v-else>
             <p class="heading__1">{{userData.name}}</p>
             <div>
-                <img src="../assets/imagery.jpg" alt="img" class="imagery">
+                <img src="../assets/imagerry.png" alt="img" class="imagery">
             </div>
             <div class="footer_menu">
                 <div class="logo_area">
